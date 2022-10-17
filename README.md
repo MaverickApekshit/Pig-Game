@@ -8,8 +8,8 @@ The project is built using:
 - CSS
 - JavaScript
 
-Live URL:
+Live URL: https://maverickapekshit.github.io/Pig-Game/
 
-Game flowchart: https://maverickapekshit.github.io/Pig-Game/
+Game flowchart:
 
 ![](https://github.com/MaverickApekshit/Pig-Game/blob/main/pig-game-flowchart.png?raw=true)
